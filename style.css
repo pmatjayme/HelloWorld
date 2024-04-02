@@ -1,0 +1,31 @@
+h2{
+    color: #516ee3;
+}
+
+body{
+    background-color: black;
+    color: white;
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    text-align: center;
+}
+
+header{
+    border-bottom: 1px solid grey;
+}
+
+.img1{
+    width: 20%;
+}
+
+footer{
+    border-top: 1px solid grey;
+}
+
+.img2{
+    border-radius: 100px;
+}
+
+.nome{
+    color: white;
+    font-weight: bold;
+}
